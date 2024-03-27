@@ -1,0 +1,2 @@
+# Szkolonko
+Nauka GITa
